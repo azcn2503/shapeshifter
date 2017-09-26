@@ -1,0 +1,13 @@
+{
+  "name": "shapeshifter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Aaron Cunnington",
+  "devDependencies": {
+    "jest": "^21.1.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
